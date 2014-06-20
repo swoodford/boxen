@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.bundle
 /.librarian
 /.projects
@@ -10,5 +11,7 @@
 /shared/*
 !/shared/README.md
 /vendor/gems/
+=======
 .DS_Store
 
+>>>>>>> 369263c993c33d9fdf4399565eb3f9ae6581f381
